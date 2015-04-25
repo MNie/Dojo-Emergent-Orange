@@ -95,7 +95,7 @@ make it work with Flick!
 // Let's use the XML type provider to automatically
 // create a CityWeather type, based on the XML sample:
 
-#r @"..\packages\FSharp.Data.2.2.0\lib\net40\FSharp.Data.dll"
+#r @"../packages/FSharp.Data.2.2.0/lib/net40/FSharp.Data.dll"
 open FSharp.Data
 #r @"System.Xml.Linq.dll"
 open System.Xml.Linq
